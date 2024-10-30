@@ -1,4 +1,5 @@
 def plus(a, b):
+    """addition_function"""
     return a + b
 
 def minus(a, b):
